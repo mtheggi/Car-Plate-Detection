@@ -1,7 +1,5 @@
 %  this function to compare between the segmented image and the stored
 %  dataset 
-%karim Ibrahim Mostafa _ ID:1200892 _ Karim.Hamed04@eng-st.cu.edu.eg 
-
 function letter=detectionFunction2(segemanted_image )
 % % بستخدما عشان اقارن مبين الصورة الى انا طلعتها و الصورة الى موجهودة عنى 
 load NewTemplates
