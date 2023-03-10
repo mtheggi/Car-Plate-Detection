@@ -1,5 +1,4 @@
 % construction of dataset of the letters and numbers  
-% made by : Nour-Eldeen  Tarek bahaa _ ID :1200448 _ Nour.mohamed02@eng-st.cu.edu.eg
 A=imread('DATASET/A.bmp');
 B=imread('DATASET/B.bmp');
 C=imread('DATASET/C.bmp');
